@@ -1,5 +1,8 @@
 # 📝 NoteVault (MERN Stack Notes App)
 
+**🚀 Live Demo:** [https://mern-project-02.vercel.app](https://mern-project-02.vercel.app)
+**🔌 Backend API:** [https://mern-project-02.onrender.com](https://mern-project-02.onrender.com)
+
 A highly polished, full-stack Notes Application built with the MERN stack (MongoDB, Express, React, Node.js). NoteVault features a premium glassmorphic UI, real-time live search, color-coded categorization, and seamless cloud database integration.
 
 ![NoteVault Demo](https://via.placeholder.com/1000x500.png?text=NoteVault+-+Premium+MERN+Notes+App)
